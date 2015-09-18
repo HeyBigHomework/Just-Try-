@@ -1,7 +1,7 @@
 class binaryTree(object):
     def _init_(self, value):
         self.value = value
-        self.leftBranch = None
+        self.leftBranch = a
         self.rightBranch = None
         self.parent = None
     def setLeftBranch(self, node):
