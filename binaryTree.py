@@ -3,7 +3,7 @@ class binaryTree(object):
         self.value = value
         self.leftBranch = a
         self.rightBranch = d
-        self.parent = None
+        self.parent = Null
     def setLeftBranch(self, node):
         self.leftBranch = node
     def serRightBranch(self, node):
